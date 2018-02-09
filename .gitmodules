@@ -1,0 +1,3 @@
+[submodule "fdfgen"]
+	path = fdfgen
+	url = https://github.com/ccnmtl/fdfgen
